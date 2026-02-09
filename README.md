@@ -88,11 +88,11 @@ Although my main focus is **enterprise systems**, I still work with **FiveM deve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mozellisoft&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mozellisoft&show_icons=true&theme=tokyonight](https://github-readme-stats-eight-theta.vercel.app/api?username=mozellisoft&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozellisoft&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozellisoft&layout=compact&theme=tokyonight](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mozellisoft&layout=compact&theme=tokyonight" />
 </p>
 
 ---
