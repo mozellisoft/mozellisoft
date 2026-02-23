@@ -3,12 +3,12 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=suBTRiplex+-+Software+Developer;ADVPL+%7C+Protheus+%7C+TOTVS;Python+%7C+Node.js+%7C+Next.js;Sistemas+Corporativos+e+Automa%C3%A7%C3%A3o;PT-BR+%7C+EN" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Vinicius_Mozelli+-+Software+Developer;ADVPL+%7C+Protheus+%7C+TOTVS;Python+%7C+Node.js+%7C+Next.js;Sistemas+Corporativos+e+Automa%C3%A7%C3%A3o;PT-BR+%7C+EN" />
 </p>
 
 ---
 
-<h2 align="center">👋 Olá / Hi, eu sou <strong>suBTRiplex</strong></h2>
+<h2 align="center">👋 Olá / Hi, eu sou <strong>Vinicius Mozelli</strong></h2>
 
 <p align="center">
   💻 Software Developer • ⚙️ Systems Builder • 🧠 Problem Solver  
